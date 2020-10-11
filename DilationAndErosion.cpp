@@ -85,8 +85,8 @@ int main()
         }
     }
 
-erosion.release();
+    erosion.release();
 
-return 0;
+    return 0;
 
 }
