@@ -82,8 +82,8 @@ int main()
             cvtColor(resizedFrame,resizedFrame,COLOR_GRAY2BGR);
             erosion.write(resizedFrame);
 
+        }
     }
-}
 
 erosion.release();
 
