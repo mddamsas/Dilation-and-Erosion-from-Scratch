@@ -1,7 +1,7 @@
 # Dilation-and-Erosion-from-Scratch
 - Input image
-![](inputImage.png)
+![](results/inputImage.png)
 - Dilation
-![](dilation.gif)
+![](results/dilation.gif)
 - Erosion
-![](erosion.gif)
+![](results/erosion.gif)
